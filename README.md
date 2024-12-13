@@ -23,11 +23,11 @@ Contains the paper write-up.
 
 ### Additional Files
 - `requirements.txt` - Python package dependencies.   
-
+- `Automated_Hypothesis_Generation.ipynb` - Notebook for Hypothesis Generation.
 
 THe dataset used in this project is taken from Hugging face.
-Citation:
-\textbf{Citation:}
+**Citation:**
+<
 @dataset{falah_covid19_sarscov2_research_dataset,
   author = {Falah.G.Salieh},
   title = {COVID-19 and SARS-CoV-2 Research Papers Dataset},
@@ -37,6 +37,7 @@ Citation:
   location = {Online},
   url = {https://huggingface.co/datasets/falah/research_paper_in_ml}
 } 
-- `Automated_Hypothesis_Generation.ipynb` - Notebook for Hypothesis Generation.
+>
+
 
 
