@@ -1,0 +1,12 @@
+together
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+datasets
+huggingface_hub
+sentence-transformers
+torch
+transformers
+numpy
