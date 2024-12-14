@@ -10,13 +10,14 @@ This repository contains the necessary files, scripts, and data for the automate
 
 ## Repository Structure
 
-## Write-up
-Contains the paper write-up.
+A pdf file of the paper write-up.
 
 ### Directories and Files
 - **data/**  
-  - `refined_ideas.txt` - 
-  - `queries.csv` - 
+  - `refined_research_ideas.txt` - Contains all ideas
+  - `cleaned_input.txt` - Contains all ideas after cleaning (removing numericals and symbols)
+  - `research_questions.csv` - Contains the generated research questions and their categories
+  - `evaluation_scores.csv` - Contains relevance and feasibility scores for generated questions
 
 - **images/**  
   - Contains visualizations used in the write-up.  
@@ -24,6 +25,8 @@ Contains the paper write-up.
 ### Additional Files
 - `requirements.txt` - Python package dependencies.   
 - `Automated_Hypothesis_Generation.ipynb` - Notebook for Hypothesis Generation.
+- `config.py` - Contains all the variables
+- `.gitignore`file
 
 THe dataset used in this project is taken from Hugging face.
 
